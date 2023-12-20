@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=250&section=header&text=Helilo!%20IamD2K&desc=DeoKanKoong&descAlign=80&descAlignY=30&fontSize=90)
+[![DeoKanKoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2K&include_all_commits=true&show_icons=true&theme=cobalt)]
 <!--
 **DeoKanKoong/DeoKanKoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
