@@ -1,39 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=250&section=header&text=Helilo!%20IamD2K&desc=DeoKanKoong&descAlign=80&descAlignY=30&fontSize=90)
 
 ## 😶‍🌫️My Public Relations😶‍🌫️
-
-## 🧑‍💻My stats🧑‍💻
-![DeoKanKoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2K&include_all_commits=true&show_icons=true&theme=cobalt)
-
 <br>
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div><br>
-    
-## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -70,7 +38,25 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
+
+    
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
 </div>
+
+## 🧑‍💻My stats🧑‍💻
+![DeoKanKoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2K&include_all_commits=true&show_icons=true&theme=cobalt)
+
 <!--
 **DeoKanKoong/DeoKanKoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
