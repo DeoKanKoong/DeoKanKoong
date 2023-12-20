@@ -1,22 +1,39 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=250&section=header&text=Helilo!%20IamD2K&desc=DeoKanKoong&descAlign=80&descAlignY=30&fontSize=90)
 
-####                😶‍🌫️My Public Relations😶‍🌫️ 
- <br/>
-  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- 
-   <br/>
-   <br/>
+## 😶‍🌫️My Public Relations😶‍🌫️ 
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Language -->
+    <p><strong>Language</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/C-A8B9CC-007396?style=for-the-badge&logo=C&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+    </div>
+    <!-- Frameworks and Platforms -->
+    <p><strong>rameworks and Platforms</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <!-- Development Environments -->
+    <p><strong>Development Environments</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+    </div>
+    <!-- Operating Systems -->
+    <p><strong>Operating Systems</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    </div>
+    <!-- Project Management and Communication -->
+    <p><strong>Project Management and Communication</strong></p>
+    <div>
+</div><br>
+</div>
 
     
 ## 📞 Contact 📞
