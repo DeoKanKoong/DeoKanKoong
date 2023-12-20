@@ -6,7 +6,7 @@
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
-        <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=for-the-badge&logo=Cpp&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&style=for-the-badge&logo=Cpp&logoColor=white"> 
         <img src="https://img.shields.io/badge/CS-512BD4?style=for-the-badge&logo=CS&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
