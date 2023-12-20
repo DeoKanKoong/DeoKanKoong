@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=250&section=header&text=Helilo!%20IamD2K&desc=DeoKanKoong&descAlign=80&descAlignY=30&fontSize=90)
 
 ## 😶‍🌫️My Public Relations😶‍🌫️
-<br>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<br><div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
