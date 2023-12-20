@@ -32,8 +32,6 @@
     <p><strong>Project Management and Communication</strong></p>
     <div>
 </div><br>
-</div>
-
     
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
