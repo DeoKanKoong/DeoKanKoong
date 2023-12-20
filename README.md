@@ -7,7 +7,7 @@
     <div>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C#-007396?style=for-the-badge&logo=C#&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
